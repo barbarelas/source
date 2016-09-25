@@ -49,7 +49,7 @@
       botName: "BotCyber",
       language: "portuguese",
       chatLink: "https://raw.githubusercontent.com/fecclis/source/master/lang/pt-BR.json",
-      scriptLink: "https://rawgit.com/bscBot/source/master/basicBot.js",
+      scriptLink: "https://rawgit.com/fecclis/source/master/basicBot.js",
       roomLock: false, // Requires an extension to re-load the script
       startupCap: 1, // 1-200
       startupVolume: 0, // 0-100
